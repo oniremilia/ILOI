@@ -1,0 +1,13 @@
+*xlsx
+*.xlsx
+*csv
+*.csv
+*wav
+*.wav
+*mp4
+*.mp4
+src/audio
+src/chunks
+src/input
+src/output
+src/test
