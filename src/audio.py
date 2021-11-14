@@ -2,7 +2,6 @@ import speech_recognition as sr
 from pathlib import Path
 import os 
 
-# Ref: https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python
 r = sr.Recognizer()
 
 input_path = input("Enter the input file path: ")
