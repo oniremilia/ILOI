@@ -1,17 +1,8 @@
 *xlsx
 *.xlsx
-*csv
-*.csv
 *wav
 *.wav
 *mp4
 *.mp4
 *mov
 *.mov
-src/audio
-src/chunks
-src/input
-src/output
-src/test
-src/data
-src/Beihai
