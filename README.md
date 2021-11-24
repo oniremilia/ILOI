@@ -10,4 +10,7 @@ pip3 install numpy==1.18.5\
 pip3 install scipy\
 pip3 install sklearn\
 pip3 install python_speech_features\
-pip3 install tensorflow >=2.4
+pip3 install tensorflow==2.7\
+pip3 install openpyxl\
+pip3 install matplotlib
+
